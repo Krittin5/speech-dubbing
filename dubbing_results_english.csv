@@ -1,0 +1,6 @@
+﻿file,hindi,sentiment,confidence,english,tamil,audio_file
+sample_1.wav,नमस्ते मेरा नाम राज है,Positive,0.4765952229499817,My name is Kingdom.,என் பெயர் அரசாங்கம்.,sample_1_english_dubbed.wav
+sample_2.wav,आज मौसम बहुत अच्छा है,Positive,0.8148244619369507,The weather is very good today.,இன்று வானிலை மிகவும் நல்லது.,sample_2_english_dubbed.wav
+sample_3.wav,मुझे हिंदी बोलना पसंद है,Positive,0.49563825130462646,I like to speak Hindu.,ஹைதராபாத்தில் பேச விரும்புகிறேன்.,sample_3_english_dubbed.wav
+sample_4.wav,यह एक परीक्षण वाक्य है,Neutral,0.7271372079849243,This is a test phrase.,இது ஒரு test phrase.,sample_4_english_dubbed.wav
+sample_5.wav,भारत एक सुंदर देश है,Positive,0.9013335108757019,India is a beautiful country.,இந்தியா ஒரு அழகான நாடு.,sample_5_english_dubbed.wav

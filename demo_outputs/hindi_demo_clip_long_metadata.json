@@ -1,0 +1,12 @@
+{
+  "source_video": "assets/hindi_demo_clip_long.mp4",
+  "hindi_transcript": "आनिया मुखयाचज्या विका ी गुनी शिक्षा वन के बप उपर तेशोाकण सबभने नाहस का आज मै प्रदूषिण के कारण औ नरवारण इस विषय पर अपने विचार क्करना चाहती हों पुराने समाने में ह ा में पचा सा ग होते तीनचासौ लोग गायवे बकरे हुते मुर्गी मयना कहोतर चर और घरे बरे के त पौधे मदीमाले इस तरब जी बिंतु अपनस का क्े में संतुलन था खेतों में फसल अच्छा होता का जीवन सुख मे था लेकिन आप कन न्या बहुत",
+  "english_translation": "Three hundred and a hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred and one hundred.",
+  "tamil_translation": "அநியா முக்யச்ஜ்ய விகாஸ் குனி சிக்ஷா பாப் தேஷோகன் மீது காடு அழிந்து மாசுபாட்டால் எல்லாமே இன்று இந்த தலைப்பைப் பற்றியும் அதன் தடுப்பு பற்றியும் எனது கருத்துக்களைப் பகிர்ந்து கொள்ள விரும்புகிறேன், பழங்காலத்தில் முந்நூற்று நாற்பது பேர், மாடுகள், ஆடுகள், கோழிகள், மாடுகள், கால்நடைகள், வீட்டைச் சுற்றி மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள் மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், மரங்கள், முதலியன அறுவடை நன்றாக இருந்திருக்கும், வாழ்க்கை மகிழ்ச்சியாக இருந்தது, ஆனால் நீங்கள் மனைவி மிகவும் மகிழ்ச்சியற்றவர்.",
+  "tamil_audio": "demo_outputs/hindi_demo_clip_long_tamil.wav",
+  "dubbed_video": "demo_outputs/hindi_demo_clip_long_tamil_dub.mp4",
+  "start_offset_sec": 11.0,
+  "tts_engine": "gTTS (fallback)",
+  "model_name": "kenpath/svara-tts-v1",
+  "voice_id": "ta_female"
+}

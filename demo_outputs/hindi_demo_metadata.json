@@ -1,0 +1,8 @@
+{
+  "source_video": "assets/hindi_demo_clip.mp4",
+  "hindi_transcript": "आगनिया मुख्य अज्याविकार की गुणी शिक्षा वृन एव उपसति शो ाकण सपनेणहस का आज मैं प्रदूषण के कारण और निकारण इस विषय पर अपने विचार वयक्त करना चाहती हो",
+  "english_translation": "Today I want to advocate my opinion on this subject because of pollution and outbreak.",
+  "tamil_translation": "இன்று நான் இந்த விஷயத்தில் என் கருத்துக்கு ஆதரவு செய்ய விரும்புகிறேன், ஏனெனில் குளிர்பானம் மற்றும் வெளிச்சம்.",
+  "tamil_audio": "demo_outputs/hindi_demo_tamil.wav",
+  "dubbed_video": "demo_outputs/hindi_demo_tamil_dub.mp4"
+}

@@ -1,0 +1,16 @@
+﻿file,hindi,sentiment,confidence,english,tamil
+sample_1.wav,नमस्ते मेरा नाम राज है,Positive,0.47659528255462646,My name is Kingdom.,என் பெயர் அரசாங்கம்.
+sample_1_english_dubbed.wav,माएं नई मिश्खिंडम,Positive,0.4321659803390503,The New Mishikandam,புதிய Mishikandam
+sample_1_tamil_voice_cloned.wav,न्याय संथी रेंठ्या डेना,Neutral,0.560340166091919,Judgment by Danny.,வழக்கறிஞர் டான்
+sample_2.wav,आज मौसम बहुत अच्छा है,Positive,0.8148247003555298,The weather is very good today.,இன்று வானிலை மிகவும் நல்லது.
+sample_2_english_dubbed.wav,द वादरस वेडीकयुद्ध दे,Neutral,0.4038591682910919,Give the wicked war.,தீய போர் கொடு.
+sample_2_tamil_voice_cloned.wav,जरा कै जाय देखते हैं वृश कु गोद ए,Neutral,0.40123164653778076,"I look at it, I see it, I see it.","நான் பார்க்கிறேன், நான் பார்க்கிறேன், நான் பார்க்கிறேன்"
+sample_3.wav,मुझे हिंदी बोलना पसंद है,Positive,0.4956381916999817,I like to speak Hindu.,ஹைதராபாத்தில் பேச விரும்புகிறேன்.
+sample_3_english_dubbed.wav,आई लाइक स स्पीक हिंदू,Neutral,0.7342230677604675,I LIKE S SPEC HINDU,நான் ஹைதராபாத்தை நேசிக்கிறேன்
+sample_3_tamil_voice_cloned.wav,देश्य पेदोसी कलाय पकति ने या तीरखी है,Negative,0.5026601552963257,The country's pedotic art has or is thirsty.,"ஆங்கிலத்தில் இதை Single Orgasm, Multiple Orgasm என்றும் கூறுகிறார்கள்."
+sample_4.wav,यह एक परीक्षण वाक्य है,Neutral,0.7271372079849243,This is a test phrase.,இது ஒரு test phrase.
+sample_4_english_dubbed.wav,दिस इज थैस प्रेस,Neutral,0.5690142512321472,It is the press.,அது தான் Press.
+sample_4_tamil_voice_cloned.wav,तेस्थ प्रास,Neutral,0.38962146639823914,The fastest,மிக வேகமாக
+sample_5.wav,भारत एक सुंदर देश है,Positive,0.9013332724571228,India is a beautiful country.,இந்தியா ஒரு அழகான நாடு.
+sample_5_english_dubbed.wav,इंदिया इस ब्यूरोफो खान शुए,Neutral,0.4528244733810425,India is this buurophone.,இந்நிறுவனத்தின் பெயர் Buurophone.
+sample_5_tamil_voice_cloned.wav,ानाजेनचद्राए पिशणदध फयूदिया छोभ्रैच षिया पोडारे,Negative,0.47541072964668274,The wicked wicked wicked wicked wicked,தீபாவளி தீபாவளி தீபாவளி தீபாவளி தீபாவளி

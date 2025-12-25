@@ -1,0 +1,16 @@
+﻿file,original_hindi,translated_english,translated_tamil,tamil_audio_path
+sample_1.wav,"नमस्ते, मेरा नाम राज है",My name is Kingdom.,என் பெயர் அரசாங்கம்.,test_audio/tamil_audio/sample_1_tamil_tts.wav
+sample_1_english_dubbed.wav,,The New Mishikandam,புதிய Mishikandam,test_audio/tamil_audio/sample_1_english_dubbed_tamil_tts.wav
+sample_1_tamil_voice_cloned.wav,,Judgment by Danny.,வழக்கறிஞர் டான்,test_audio/tamil_audio/sample_1_tamil_voice_cloned_tamil_tts.wav
+sample_2.wav,आज मौसम बहुत अच्छा है,The weather is very good today.,இன்று வானிலை மிகவும் நல்லது.,test_audio/tamil_audio/sample_2_tamil_tts.wav
+sample_2_english_dubbed.wav,,Give the wicked war.,தீய போர் கொடு.,test_audio/tamil_audio/sample_2_english_dubbed_tamil_tts.wav
+sample_2_tamil_voice_cloned.wav,,"I look at it, I see it, I see it.","நான் பார்க்கிறேன், நான் பார்க்கிறேன், நான் பார்க்கிறேன்",test_audio/tamil_audio/sample_2_tamil_voice_cloned_tamil_tts.wav
+sample_3.wav,मुझे हिंदी बोलना पसंद है,I like to speak Hindu.,ஹைதராபாத்தில் பேச விரும்புகிறேன்.,test_audio/tamil_audio/sample_3_tamil_tts.wav
+sample_3_english_dubbed.wav,,I LIKE S SPEC HINDU,நான் ஹைதராபாத்தை நேசிக்கிறேன்,test_audio/tamil_audio/sample_3_english_dubbed_tamil_tts.wav
+sample_3_tamil_voice_cloned.wav,,The country's pedotic art has or is thirsty.,"ஆங்கிலத்தில் இதை Single Orgasm, Multiple Orgasm என்றும் கூறுகிறார்கள்.",test_audio/tamil_audio/sample_3_tamil_voice_cloned_tamil_tts.wav
+sample_4.wav,यह एक परीक्षण वाक्य है,This is a test phrase.,இது ஒரு test phrase.,test_audio/tamil_audio/sample_4_tamil_tts.wav
+sample_4_english_dubbed.wav,,It is the press.,அது தான் Press.,test_audio/tamil_audio/sample_4_english_dubbed_tamil_tts.wav
+sample_4_tamil_voice_cloned.wav,,The fastest,மிக வேகமாக,test_audio/tamil_audio/sample_4_tamil_voice_cloned_tamil_tts.wav
+sample_5.wav,भारत एक सुंदर देश है,India is a beautiful country.,இந்தியா ஒரு அழகான நாடு.,test_audio/tamil_audio/sample_5_tamil_tts.wav
+sample_5_english_dubbed.wav,,India is this buurophone.,இந்நிறுவனத்தின் பெயர் Buurophone.,test_audio/tamil_audio/sample_5_english_dubbed_tamil_tts.wav
+sample_5_tamil_voice_cloned.wav,,The wicked wicked wicked wicked wicked,தீபாவளி தீபாவளி தீபாவளி தீபாவளி தீபாவளி,test_audio/tamil_audio/sample_5_tamil_voice_cloned_tamil_tts.wav

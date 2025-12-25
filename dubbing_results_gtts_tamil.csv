@@ -1,0 +1,21 @@
+﻿file,hindi,sentiment,tamil,audio_file
+sample_1.wav,मेरा नाम कृतयम है,Neutral,என் பெயர் நன்றி.,N/A
+sample_1_english_dubbed.wav,मैं ने हमस्ैइंक फॉरम,Neutral,எனக்கு ஒரு வடிவமைப்பு கிடைத்தது.,N/A
+sample_1_tamil.wav,वह निपटाने लेगीी,Neutral,அவர் சமாதானம் செய்வார்,N/A
+sample_1_tamil_english_dubbed.wav,ेव मे किोदयावस,Neutral,நான் உள்ளே தான்,N/A
+sample_2.wav,आज मौसम बहुत अच्छा है,Positive,இன்று வானிலை மிகவும் நல்லது.,N/A
+sample_2_english_dubbed.wav,वद वेश्वरी को उदथिर आए,Negative,தீயவர்கள் வந்தனர்.,N/A
+sample_2_tamil.wav,,Negative,அவ்வளவு,N/A
+sample_2_tamil_english_dubbed.wav,गए हैं,Negative,போய்விட்டது,N/A
+sample_3.wav,ये हिंदी बोलना पसंद है,Positive,ஹைதராபாத்தில் பேச விரும்புகிறேன்.,N/A
+sample_3_english_dubbed.wav,क कहे,Negative,கூறுவது,N/A
+sample_3_tamil.wav,मर ते कक े ही,Negative,அது இறந்துவிட்டது,N/A
+sample_3_tamil_english_dubbed.wav,की रिश्ते है,Neutral,தொடர்பு தான்,N/A
+sample_4.wav,यह एक परीक्षण वाक्य है,Neutral,இது ஒரு test phrase.,N/A
+sample_4_english_dubbed.wav,इसइज ेथैस्ट प्रेस,Neutral,இஸ்லாமியர் Ethast Press,N/A
+sample_4_tamil.wav,कक  प्रा,Neutral,கோப்பை,N/A
+sample_4_tamil_english_dubbed.wav,र्रत है,Negative,அது,N/A
+sample_5.wav,भारत एक सुंदर देश है,Positive,இந்தியா ஒரு அழகான நாடு.,N/A
+sample_5_english_dubbed.wav,इंडिया इसे ब्यूरो फॉर खान श्रे,Neutral,India It Bureau for கான் மிஸ்டர்,N/A
+sample_5_tamil.wav,स,Neutral,மூலம் s,N/A
+sample_5_tamil_english_dubbed.wav,बाए एस,Neutral,மூலம் S,N/A
